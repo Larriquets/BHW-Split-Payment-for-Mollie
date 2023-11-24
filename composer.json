@@ -1,0 +1,10 @@
+{
+    "name": "bhw/bhw_split_payment_for_mollie",
+    "description": "Descripción de tu plugin",
+    "type": "wordpress-plugin",
+    "require": {
+            "mollie/oauth2-mollie-php": "^2.0"
+        }
+    
+    
+}
